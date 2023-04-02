@@ -1,0 +1,14 @@
+2023-04-03 01:04:04.759376 - Initialized conversion of CBT544
+2023-04-03 01:04:04.883289 - Received CBT.V504.FILE544.PDS from FILE544.XMI 
+2023-04-03 01:04:04.886463 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE544.PDS, moved to PDS/$$$#DATE
+2023-04-03 01:04:04.887697 - Found $$$NOTE1.txt (text/plain) in CBT.V504.FILE544.PDS, moved to PDS/$$$NOTE1
+2023-04-03 01:04:04.888956 - Found $$$NOTE2.txt (text/plain) in CBT.V504.FILE544.PDS, moved to PDS/$$$NOTE2
+2023-04-03 01:04:04.890324 - Found @FILE544.txt (text/plain) in CBT.V504.FILE544.PDS, moved to PDS/@FILE544
+2023-04-03 01:04:04.891537 - Found IEBCOPYR.jcl (text/plain) in CBT.V504.FILE544.PDS, moved to PDS/IEBCOPYR
+2023-04-03 01:04:04.892908 - Found PL360.txt (text/plain) in CBT.V504.FILE544.PDS, moved to PDS/PL360
+2023-04-03 01:04:04.894088 - Found PL360C.txt (text/plain) in CBT.V504.FILE544.PDS, moved to PDS/PL360C
+2023-04-03 01:04:04.895182 - Found PL360CG.txt (text/plain) in CBT.V504.FILE544.PDS, moved to PDS/PL360CG
+2023-04-03 01:04:04.896298 - Found PL360CL.txt (text/plain) in CBT.V504.FILE544.PDS, moved to PDS/PL360CL
+2023-04-03 01:04:04.897438 - Found PL360IVP.jcl (text/plain) in CBT.V504.FILE544.PDS, moved to PDS/PL360IVP
+2023-04-03 01:04:04.915312 - Found PL360LOA.xmi (application/xmit) in CBT.V504.FILE544.PDS
+2023-04-03 01:04:04.936729   - Received RECFM=U data, stored XMIT file as CBT544/PL360LOA.xmi
